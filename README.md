@@ -13,4 +13,4 @@ If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2
 sys.exit(app.exec_())   # PySide2
 
 
-![Qt Python simple TCP client with GUI](https://github.com/avanuser/Qt-Python-simple-TCP-client-with-GUI/blob/main/qt-python-simple-tcp-client-with-gui.png)
+![Qt Python simple TCP client with GUI](qt-python-simple-tcp-client-with-gui.png)
