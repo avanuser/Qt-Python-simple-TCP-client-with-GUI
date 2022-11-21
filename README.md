@@ -1,4 +1,4 @@
-# Qt-Python-simple-TCP-client-with-GUI
+# Qt Python simple TCP client with GUI
 Qt Python simple TCP client with GUI (PySide6).
 
 The program can be used to facilitate testing of TCP servers, etc.
